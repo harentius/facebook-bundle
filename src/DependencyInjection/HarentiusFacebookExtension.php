@@ -1,6 +1,6 @@
 <?php
 
-namespace Harentius\Bundle\FacebookBundle\DependencyInjection;
+namespace Harentius\FacebookBundle\DependencyInjection;
 
 use Facebook\Facebook;
 use Symfony\Component\DependencyInjection\ContainerBuilder;

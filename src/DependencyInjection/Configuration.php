@@ -1,6 +1,6 @@
 <?php
 
-namespace Harentius\Bundle\FacebookBundle\DependencyInjection;
+namespace Harentius\FacebookBundle\DependencyInjection;
 
 use Symfony\Component\Config\Definition\Builder\TreeBuilder;
 use Symfony\Component\Config\Definition\ConfigurationInterface;

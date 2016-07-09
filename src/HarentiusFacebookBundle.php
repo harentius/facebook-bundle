@@ -1,6 +1,6 @@
 <?php
 
-namespace Harentius\Bundle\FacebookBundle;
+namespace Harentius\FacebookBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
