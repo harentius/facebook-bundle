@@ -7,7 +7,7 @@
     "homepage": "https://github.com/harentius/facebook-bundle",
     "autoload" : {
         "psr-4": {
-            "": "src/"
+            "Harentius\\BlogBundle\\": "src/"
         }
     },
     "require": {
