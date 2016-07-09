@@ -1,0 +1,20 @@
+{
+    "name" : "harentius/facebook-bundle",
+    "license": "MIT",
+    "type": "symfony-bundle",
+    "description": "Bundle for integration facebook-php-sdk-v4 and Symfony framework",
+    "keywords": ["facebook", "Symfony", "bundle"],
+    "homepage": "https://github.com/harentius/facebook-bundle",
+    "autoload" : {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "require": {
+        "php": ">=5.4.0",
+        "symfony/dependency-injection": ">=2.1",
+        "symfony/config": ">=2.1",
+        "symfony/http-kernel": ">=2.1",
+        "facebook/php-sdk-v4": "~5.2"
+    }
+}
