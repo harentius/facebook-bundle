@@ -49,12 +49,12 @@ harentius_facebook:
 Usage
 -----
 
-Bundle registers configured facebook service 'harentius_facebook'.
+Bundle registers configured facebook service 'harentius.facebook'.
 
 In Controllers:
 
 ```php
-$this->get('harentius_facebook');
+$this->get('harentius.facebook');
 ```
 
 For getting information about service usage please look documentation:
