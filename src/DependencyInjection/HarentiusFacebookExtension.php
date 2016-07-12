@@ -24,6 +24,6 @@ class HarentiusFacebookExtension extends Extension
                 'default_graph_version' => $config['graph_version'],
             ],
         ]);
-        $container->setDefinition('harentius_facebook', $definition);
+        $container->setDefinition('harentius.facebook', $definition);
     }
 }
